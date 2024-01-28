@@ -40,12 +40,12 @@ The following **required** functionality is completed:
     * Getting notifications for when streams go live
     * Having emotes and emojis in chat
     
-    The app I would like to build is a loyalty rewards and customer 
-    check-in app for small businesses. The app would ask a phone number
-    for a customer to check-in. The customer would then earn points
-    for checking in. The points could then be used for future discounts
-    or rewards. The app would also send a discount or reward to customers
-    on their birthday or if they haven't checked in for a while.
+The app I would like to build is a loyalty rewards and customer 
+check-in app for small businesses. The app would ask a phone number
+for a customer to check-in. The customer would then earn points
+for checking in. The points could then be used for future discounts
+or rewards. The app would also send a discount or reward to customers
+on their birthday or if they haven't checked in for a while.
 
 ## Notes
 
